@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <link href="css/styles.css" rel="stylesheet" />
+    <link rel="icon" href="img/favicon.png"/>
+    <title>Assignment #1</title>
+    
+</head>
+
+
+<body>
+    <div style="margin:50px">
+
+        <header>
+            <h1>Matt Burton</h1>
+        </header>
+        <img src="img/grill.png" style="height:200px;" />
+        <p>
+            I hope to learn how host an asp.net project on multiple platforms (aws, azure etc.). I hope I learn how to create an api. I hope to get a refresher course on using token authentication.
+        </p>
+        <ul class="list-unstyled">
+            <li>Entreprenuer</li>
+            <li>Engagement Lead</li>
+            <li>Product Manager</li>
+        </ul>
+    </div>
+
+    <div style="margin:50px">
+        <h1>Grade Calculator</h1>
+        <form class="form-control-plaintext">
+            <label>Assignments</label>
+            <!-50% -->
+            <input type="number" id="Assignments" />
+            <br />
+            <label>Group Projects</label>
+            <!-10% -->
+            <input type="number" id="Projects" />
+            <br />
+            <label>Quizzes</label>
+            <!-10% -->
+            <input type="number" id="Quizzes" />
+            <br />
+            <label>Exams</label>
+            <!-20% -->
+            <input type="number" id="Exams" />
+            <br />
+            <label>INTEX</label>
+            <!-10% -->
+            <input type="number" id="INTEX" />
+            <br />
+            <input type="submit" value="What if Calculator" id="submit" />
+        </form>
+        <h1 id="expected_grade">Expected Grade: </h1>
+
+        <script src="js/gradecalc.js"></script>
+    </div>
+</body>
+</html>

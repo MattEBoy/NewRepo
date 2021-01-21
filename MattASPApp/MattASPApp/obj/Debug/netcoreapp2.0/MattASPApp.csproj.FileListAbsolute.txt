@@ -1,0 +1,11 @@
+C:\Users\matt.burton\source\repos\MattASPApp\MattASPApp\bin\Debug\netcoreapp2.0\MattASPApp.deps.json
+C:\Users\matt.burton\source\repos\MattASPApp\MattASPApp\bin\Debug\netcoreapp2.0\MattASPApp.runtimeconfig.json
+C:\Users\matt.burton\source\repos\MattASPApp\MattASPApp\bin\Debug\netcoreapp2.0\MattASPApp.runtimeconfig.dev.json
+C:\Users\matt.burton\source\repos\MattASPApp\MattASPApp\bin\Debug\netcoreapp2.0\MattASPApp.dll
+C:\Users\matt.burton\source\repos\MattASPApp\MattASPApp\bin\Debug\netcoreapp2.0\MattASPApp.pdb
+C:\Users\matt.burton\source\repos\MattASPApp\MattASPApp\obj\Debug\netcoreapp2.0\MattASPApp.csprojAssemblyReference.cache
+C:\Users\matt.burton\source\repos\MattASPApp\MattASPApp\obj\Debug\netcoreapp2.0\MattASPApp.csproj.CoreCompileInputs.cache
+C:\Users\matt.burton\source\repos\MattASPApp\MattASPApp\obj\Debug\netcoreapp2.0\MattASPApp.AssemblyInfoInputs.cache
+C:\Users\matt.burton\source\repos\MattASPApp\MattASPApp\obj\Debug\netcoreapp2.0\MattASPApp.AssemblyInfo.cs
+C:\Users\matt.burton\source\repos\MattASPApp\MattASPApp\obj\Debug\netcoreapp2.0\MattASPApp.dll
+C:\Users\matt.burton\source\repos\MattASPApp\MattASPApp\obj\Debug\netcoreapp2.0\MattASPApp.pdb
